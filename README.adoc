@@ -1,0 +1,9 @@
+= Landing Page
+
+Just a landing page
+
+Build it:
+
+```
+asciidoctor index.adoc
+```

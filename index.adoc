@@ -1,0 +1,29 @@
+= Sand Fox's Page
+Anton Smirnov
+:stylesheet: iconic.min.css
+
+== What is this page?
+
+This is my landing page for the Pages services. It should be available as:
+
+* https://sandfox.gitlab.io/
+* https://sandfox.bitbucket.io/
+* https://sandfoxme.github.io/
+
+== My Websites
+
+* link:https://sandfox.me/[My Blog]
+* link:https://sandfox.dev/[My Projects]
+* link:https://sandfox.org/[My Gitea]
+
+== GitHub Pages
+
+* None so far
+
+== Gitlab Pages
+
+* link:https://sandfox.gitlab.io/satis/[Satis demo]
+
+== Bitbucket Pages
+
+* None so far
