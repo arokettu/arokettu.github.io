@@ -8,7 +8,7 @@ This is my landing page for the Pages services. It should be available as:
 
 * https://sandfox.gitlab.io/
 * https://sandfox.bitbucket.io/
-* https://sandfoxme.github.io/
+* https://arokettu.github.io/
 
 == My Websites
 
