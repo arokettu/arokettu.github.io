@@ -1,6 +1,6 @@
-= Landing Page
+= Index Page
 
-Just a landing page
+Just a simple index page
 
 Build it:
 

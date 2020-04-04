@@ -4,7 +4,7 @@ Anton Smirnov
 
 == What is this page?
 
-This is my landing page for the Pages services. It should be available as:
+This is my index page for the Pages services. It should be available as:
 
 * https://sandfox.gitlab.io/
 * https://sandfox.bitbucket.io/
